@@ -243,7 +243,7 @@ console.log(b === c);
 
 #### Resposta: C
 
-`new Number()` é uma funcção construtura padrão do JavaScript. Ainda que parece com um número, não é realmente um número: Tem um monte de funções extras e é um objeto.
+`new Number()` é uma função construtora padrão do JavaScript. Ainda que se pareça com um número, não é realmente um número: Tem um monte de funções extras e é um objeto.
 
 Quando usamos o operador `==`, só conferimos se ambas tem o mesmo <i>valor</i>. Ambas tem o valor de `3`, então retorna `true`. 
 
